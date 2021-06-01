@@ -1,0 +1,18 @@
+{
+  "name": "ktube",
+  "version": "1.0.0",
+  "description": "The best way to watch vidoes.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starguys/ktube-reloaded.git"
+  },
+  "scripts": {
+    "win": "node index.js"
+  },
+  "author": "Kang Min",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starguys/ktube-reloaded/issues"
+  },
+  "homepage": "https://github.com/starguys/ktube-reloaded#readme"
+}
