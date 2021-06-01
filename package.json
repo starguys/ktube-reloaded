@@ -14,5 +14,12 @@
   "bugs": {
     "url": "https://github.com/starguys/ktube-reloaded/issues"
   },
-  "homepage": "https://github.com/starguys/ktube-reloaded#readme"
+  "homepage": "https://github.com/starguys/ktube-reloaded#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4"
+  }
 }
